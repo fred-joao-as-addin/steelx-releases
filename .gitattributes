@@ -1,0 +1,3 @@
+# This repo distributes binary releases only.
+# Prevent GitHub from including anything meaningful in auto-generated source archives.
+* export-ignore
